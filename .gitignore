@@ -34,7 +34,6 @@
 *.ilk
 *.pdb
 *.vs
-*.sln
 *.vcxproj
 *filters
 *.user
