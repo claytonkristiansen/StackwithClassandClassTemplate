@@ -33,3 +33,12 @@
 
 *.ilk
 *.pdb
+*.vs
+*.sln
+*.vcxproj
+*filters
+*.user
+*.obj
+*.log
+*.idb
+*.pdb
